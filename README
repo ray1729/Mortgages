@@ -1,0 +1,18 @@
+# mortgages
+
+Some utilities for calculating mortgage repayments and accumulated
+costs.
+
+## Usage
+
+FIXME: write
+
+## Installation
+
+FIXME: write
+
+## License
+
+Copyright (C) 2011 Ray Miller <ray@1729.org.uk>.
+
+Distributed under the Eclipse Public License, the same as Clojure.
